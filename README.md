@@ -200,7 +200,7 @@ Driven by the philosophy of building scalable, efficient, and user-centric appli
 |:---------|:-----|
 | 📧 **Email** | [bodduramanji21@gmail.com](mailto:bodduramanji21@gmail.com) |
 | 🐙 **GitHub** | [@Ramanjianeyulu2023-btech](https://github.com/Ramanjianeyulu2023-btech) |
-| 💼 **LinkedIn** | [Add your LinkedIn URL] |
+| 💼 **LinkedIn** | [Add your Linkwww.linkedin.com/in/b-venkata-ramanjaneyulu-91403a304edIn URL] |
 | 🏆 **LeetCode** | [Add your LeetCode URL] |
 | 📱 **Twitter/X** | [Add your Twitter URL] |
 
